@@ -1,0 +1,15 @@
+.container {
+  margin: 0;
+  padding: 0;
+}
+.hero img {
+  border-radius: 0px;
+}
+aside.left,
+aside.right {
+  text-align: center;
+  float: inherit;
+}
+.lastsec iframe {
+  border-radius: 0px;
+}
